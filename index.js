@@ -11,6 +11,6 @@ app.use(morgan('dev'));
 app.use(cors());
 app.use('/', products)
 
-app.listen(4000, ()=>{
+app.listen(3000, ()=>{
     console.log('El servidor esta escuchando en el localhost:4000')
 })

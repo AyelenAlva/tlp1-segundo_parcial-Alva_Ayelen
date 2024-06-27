@@ -2,22 +2,22 @@ let products = [
 
     {
         id: 1,
-        nombre: "Aye",
-        apellido: "Alva",
-        edad: 19 
+        name: "Aye",
+        quantity: 2,
+        price: 1
     },
     {
         id: 2,
-        nombre: "Eze",
-        apellido: "Peña",
-        edad: 25
+        name: "Aye",
+        quantity: 5,
+        price: 7
     },
 
     {
         id: 3,
-        nombre: "Rodrigo",
-        apellido: "Rojas",
-        edad: 11
+        name: "nose",
+        quantity: 3,
+        price: 2
     }
 ]
 
